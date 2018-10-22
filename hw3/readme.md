@@ -1,4 +1,4 @@
-This is the third homework in big data analysis.It uncludes three parts:
+This is the third homework in big data analysis.It includes three parts:
 
 1.clustering
 
